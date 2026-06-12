@@ -6,8 +6,7 @@ Se responden preguntas de negocio sobre productos más vendidos,
 estacionalidad por categoría, ranking de productos y clientes recuperados.
 
 ## 🛠️ Tecnologías
-- PostgreSQL 15
-- pgAdmin / psql
+- PostgreSQL
 - Datos simulados en CSV
 
 ## 📊 Consultas y resultados
@@ -82,8 +81,8 @@ Esto representa una oportunidad de campaña de fidelización.
 **Resultado (primeras filas):**
 | customer_id | nombre     | nombre_producto | fecha_primera_compra |
 | ----------- | ---------- | --------------- | -------------------- |
-| 7           | Cliente_7  | Producto_23     | 2024-12-15           |
-| 12          | Cliente_12 | Producto_5      | 2024-12-18           |
+| 1           | Cliente_1  | Producto_33     | 2024-12-7            |
+| 13          | Cliente_13 | Producto_11     | 2024-12-2            |
 
 **Insight:** Los productos más comunes en la primera compra post-reactivación 
 son de la categoría `Deportes` y `Electrónica`.
@@ -91,5 +90,3 @@ son de la categoría `Deportes` y `Electrónica`.
 **Recomendación:** Incluir estos productos en la campaña de reactivación.
 
 ---
-
-## 📁 Estructura del repositorio
