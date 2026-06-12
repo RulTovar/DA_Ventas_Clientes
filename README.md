@@ -1,4 +1,4 @@
-# Proyecto 2: Análisis de Ventas y Customer Analytics con SQL
+# Proyecto 2: Análisis de Ventas y Clientes con SQL
 
 ## 📌 Descripción
 Análisis de 2,000 órdenes de una tienda e-commerce usando PostgreSQL. 
